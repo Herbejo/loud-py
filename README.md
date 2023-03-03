@@ -14,6 +14,7 @@ Dependancys
 
 
 Usage
+
 -Specify paths for input and output direcotires in config.ini
 
 -runs script 
